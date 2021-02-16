@@ -411,3 +411,5 @@ footer {
     border-radius: 50px;
     text-align: center;
 }
+
+img[src*="https://cdn.rawgit.com/000webhost/log...​"] { display: none; }
